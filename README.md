@@ -8,9 +8,13 @@ Install electron for windows
 npm install electron -g
 ```
 
-You need to create an electron builder for windows
-
+Build the project
 ```sh
 npm run build
+```
+
+Create a release version of the builded project
+
+```sh
 npm run release:win
 ```
