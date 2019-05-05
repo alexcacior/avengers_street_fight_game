@@ -2,6 +2,8 @@
 
 ### Installation
 
+You need install [Node.js](https://nodejs.org/)
+
 Get source code
 
 ```sh
