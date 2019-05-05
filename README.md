@@ -11,5 +11,6 @@ npm install electron -g
 You need to create an electron builder for windows
 
 ```sh
+npm run build
 npm run release:win
 ```
