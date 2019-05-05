@@ -2,8 +2,6 @@
 
 ### Installation
 
-You need install [Node.js](https://nodejs.org/)
-
 Get source code
 
 ```sh
@@ -11,6 +9,8 @@ git clone https://github.com/alexcacior/avengers_street_fight_game.git name_of_t
 
 cd name_of_the_folder
 ```
+
+Install [Node.js](https://nodejs.org/)
 
 Install node modules
 
