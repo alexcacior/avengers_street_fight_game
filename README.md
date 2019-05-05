@@ -2,10 +2,17 @@
 
 ### Installation
 
-Install electron for windows
+Get source code
 
 ```sh
-npm install electron -g
+git clone "link" <name_of_the_folder>
+cd <name_of_the_folder>
+```
+
+Install node modules
+
+```sh
+npm install
 ```
 
 Build the project
