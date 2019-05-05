@@ -5,8 +5,8 @@
 Get source code
 
 ```sh
-git clone https://github.com/alexcacior/avengers_street_fight_game.git <name_of_the_folder>
-cd <name_of_the_folder>
+git clone https://github.com/alexcacior/avengers_street_fight_game.git name_of_the_folder
+cd name_of_the_folder
 ```
 
 Install node modules
